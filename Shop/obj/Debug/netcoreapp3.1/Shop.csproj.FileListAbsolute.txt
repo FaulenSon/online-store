@@ -1,0 +1,430 @@
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\Shop.StaticWebAssets.xml
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\Shop.exe
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\Shop.deps.json
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\Shop.runtimeconfig.json
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\Shop.runtimeconfig.dev.json
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\Shop.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\Shop.pdb
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\Shop.Views.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\Shop.Views.pdb
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\Serilog.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\Serilog.AspNetCore.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\Serilog.Enrichers.Environment.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\Serilog.Enrichers.Process.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\Serilog.Enrichers.Thread.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\Serilog.Extensions.Hosting.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\Serilog.Settings.Configuration.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\Serilog.Sinks.Console.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\Serilog.Sinks.Debug.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\Shop.DataAccess.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\bin\Debug\netcoreapp3.1\Shop.DataAccess.pdb
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.csproj.AssemblyReference.cache
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.GeneratedMSBuildEditorConfig.editorconfig
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.AssemblyInfoInputs.cache
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.AssemblyInfo.cs
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.csproj.CoreCompileInputs.cache
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.MvcApplicationPartsAssemblyInfo.cs
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.MvcApplicationPartsAssemblyInfo.cache
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.RazorAssemblyInfo.cache
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.RazorAssemblyInfo.cs
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\obj\Debug\netcoreapp3.1\staticwebassets\Shop.StaticWebAssets.Manifest.cache
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\obj\Debug\netcoreapp3.1\staticwebassets\Shop.StaticWebAssets.xml
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\obj\Debug\netcoreapp3.1\scopedcss\bundle\Shop.styles.css
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.TagHelpers.input.cache
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.TagHelpers.output.cache
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.RazorCoreGenerate.cache
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\Components\CartComponent\Default.cshtml.g.cs
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Admin\AddProduct.cshtml.g.cs
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Admin\ChangeUserPassword.cshtml.g.cs
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CreateRole.cshtml.g.cs
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CreateUser.cshtml.g.cs
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Admin\EditUser.cshtml.g.cs
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Admin\EditUserRights.cshtml.g.cs
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Admin\GetOrder.cshtml.g.cs
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Admin\GetOrders.cshtml.g.cs
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Admin\GetRoles.cshtml.g.cs
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Admin\GetUser.cshtml.g.cs
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Admin\GetUsers.cshtml.g.cs
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Cart\Index.cshtml.g.cs
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\CheckOut\CreateOrder.cshtml.g.cs
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\CheckOut\Thanks.cshtml.g.cs
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Home\Search.cshtml.g.cs
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index.cshtml.g.cs
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Cart\Default.cshtml.g.cs
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\CssPartial.cshtml.g.cs
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\FooterPartial.cshtml.g.cs
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\HeaderPartial.cshtml.g.cs
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\MetatagsPartial.cshtml.g.cs
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\ScriptsPartial.cshtml.g.cs
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\UserProfile\ChangePassword.cshtml.g.cs
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\UserProfile\Edit.cshtml.g.cs
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\UserProfile\GetAllOrders.cshtml.g.cs
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\UserProfile\Index.cshtml.g.cs
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.RazorTargetAssemblyInfo.cache
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.RazorTargetAssemblyInfo.cs
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.Views.pdb
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.csproj.CopyComplete
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.pdb
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.genruntimeconfig.cache
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\AboutUs\Index.cshtml.g.cs
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Main\Index.cshtml.g.cs
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Certificates\Index.cshtml.g.cs
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Contact\Index.cshtml.g.cs
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Description\Index.cshtml.g.cs
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Gallery\Index.cshtml.g.cs
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Reviews\Index.cshtml.g.cs
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Admin\DeleteProduct.cshtml.g.cs
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\Shop.StaticWebAssets.xml
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\Shop.exe
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\Shop.deps.json
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\Shop.runtimeconfig.json
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\Shop.runtimeconfig.dev.json
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\Shop.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\Shop.pdb
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\Shop.Views.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\Shop.Views.pdb
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\Serilog.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\Serilog.AspNetCore.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\Serilog.Enrichers.Environment.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\Serilog.Enrichers.Process.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\Serilog.Enrichers.Thread.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\Serilog.Extensions.Hosting.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\Serilog.Settings.Configuration.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\Serilog.Sinks.Console.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\Serilog.Sinks.Debug.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\Shop.DataAccess.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\bin\Debug\netcoreapp3.1\Shop.DataAccess.pdb
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.csproj.AssemblyReference.cache
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.AssemblyInfoInputs.cache
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.AssemblyInfo.cs
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.csproj.CoreCompileInputs.cache
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.MvcApplicationPartsAssemblyInfo.cs
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.MvcApplicationPartsAssemblyInfo.cache
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.RazorAssemblyInfo.cache
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.RazorAssemblyInfo.cs
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\obj\Debug\netcoreapp3.1\staticwebassets\Shop.StaticWebAssets.Manifest.cache
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\obj\Debug\netcoreapp3.1\staticwebassets\Shop.StaticWebAssets.Pack.cache
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.Shop.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.Shop.props
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.Shop.props
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.Shop.props
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\obj\Debug\netcoreapp3.1\staticwebassets\Shop.StaticWebAssets.xml
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.TagHelpers.input.cache
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.TagHelpers.output.cache
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.RazorCoreGenerate.cache
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\Components\CartComponent\Default.cshtml.g.cs
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\AboutUs\Index.cshtml.g.cs
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Admin\AddProduct.cshtml.g.cs
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Admin\ChangeUserPassword.cshtml.g.cs
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CreateRole.cshtml.g.cs
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CreateUser.cshtml.g.cs
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Admin\DeleteProduct.cshtml.g.cs
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Admin\EditUser.cshtml.g.cs
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Admin\EditUserRights.cshtml.g.cs
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Admin\GetOrder.cshtml.g.cs
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Admin\GetOrders.cshtml.g.cs
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Admin\GetRoles.cshtml.g.cs
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Admin\GetUser.cshtml.g.cs
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Admin\GetUsers.cshtml.g.cs
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Cart\Index.cshtml.g.cs
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Certificates\Index.cshtml.g.cs
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\CheckOut\CreateOrder.cshtml.g.cs
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\CheckOut\Thanks.cshtml.g.cs
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Contact\Index.cshtml.g.cs
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Description\Index.cshtml.g.cs
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Gallery\Index.cshtml.g.cs
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Home\Search.cshtml.g.cs
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Main\Index.cshtml.g.cs
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index.cshtml.g.cs
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Reviews\Index.cshtml.g.cs
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Cart\Default.cshtml.g.cs
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\CssPartial.cshtml.g.cs
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\FooterPartial.cshtml.g.cs
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\HeaderPartial.cshtml.g.cs
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\MetatagsPartial.cshtml.g.cs
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\ScriptsPartial.cshtml.g.cs
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\UserProfile\ChangePassword.cshtml.g.cs
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\UserProfile\Edit.cshtml.g.cs
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\UserProfile\GetAllOrders.cshtml.g.cs
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\UserProfile\Index.cshtml.g.cs
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.RazorTargetAssemblyInfo.cache
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.RazorTargetAssemblyInfo.cs
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.Views.pdb
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.csproj.CopyComplete
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.pdb
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.genruntimeconfig.cache

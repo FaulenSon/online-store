@@ -1,0 +1,10 @@
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop.DataAccess\bin\Release\netstandard2.1\Shop.DataAccess.deps.json
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop.DataAccess\bin\Release\netstandard2.1\Shop.DataAccess.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop.DataAccess\bin\Release\netstandard2.1\Shop.DataAccess.pdb
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop.DataAccess\obj\Release\netstandard2.1\Shop.DataAccess.csproj.AssemblyReference.cache
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop.DataAccess\obj\Release\netstandard2.1\Shop.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop.DataAccess\obj\Release\netstandard2.1\Shop.DataAccess.AssemblyInfoInputs.cache
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop.DataAccess\obj\Release\netstandard2.1\Shop.DataAccess.AssemblyInfo.cs
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop.DataAccess\obj\Release\netstandard2.1\Shop.DataAccess.csproj.CoreCompileInputs.cache
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop.DataAccess\obj\Release\netstandard2.1\Shop.DataAccess.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop.DataAccess\obj\Release\netstandard2.1\Shop.DataAccess.pdb

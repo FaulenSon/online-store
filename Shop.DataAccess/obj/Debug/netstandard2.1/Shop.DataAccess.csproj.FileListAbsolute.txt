@@ -1,0 +1,20 @@
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop.DataAccess\bin\Debug\netstandard2.1\Shop.DataAccess.deps.json
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop.DataAccess\bin\Debug\netstandard2.1\Shop.DataAccess.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop.DataAccess\bin\Debug\netstandard2.1\Shop.DataAccess.pdb
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop.DataAccess\obj\Debug\netstandard2.1\Shop.DataAccess.csproj.AssemblyReference.cache
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop.DataAccess\obj\Debug\netstandard2.1\Shop.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop.DataAccess\obj\Debug\netstandard2.1\Shop.DataAccess.AssemblyInfoInputs.cache
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop.DataAccess\obj\Debug\netstandard2.1\Shop.DataAccess.AssemblyInfo.cs
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop.DataAccess\obj\Debug\netstandard2.1\Shop.DataAccess.csproj.CoreCompileInputs.cache
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop.DataAccess\obj\Debug\netstandard2.1\Shop.DataAccess.dll
+E:\Web\eShop_online_store-main\eShop_online_store-main\Shop\Shop.DataAccess\obj\Debug\netstandard2.1\Shop.DataAccess.pdb
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop.DataAccess\bin\Debug\netstandard2.1\Shop.DataAccess.deps.json
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop.DataAccess\bin\Debug\netstandard2.1\Shop.DataAccess.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop.DataAccess\bin\Debug\netstandard2.1\Shop.DataAccess.pdb
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop.DataAccess\obj\Debug\netstandard2.1\Shop.DataAccess.csproj.AssemblyReference.cache
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop.DataAccess\obj\Debug\netstandard2.1\Shop.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop.DataAccess\obj\Debug\netstandard2.1\Shop.DataAccess.AssemblyInfoInputs.cache
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop.DataAccess\obj\Debug\netstandard2.1\Shop.DataAccess.AssemblyInfo.cs
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop.DataAccess\obj\Debug\netstandard2.1\Shop.DataAccess.csproj.CoreCompileInputs.cache
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop.DataAccess\obj\Debug\netstandard2.1\Shop.DataAccess.dll
+D:\Стас диплом\Паньков_Станислав_081072_Веб_приложение_автоматизации_работы_компании_ООО_Форгенто\ПО\Исходный код проекта\Shop\Shop.DataAccess\obj\Debug\netstandard2.1\Shop.DataAccess.pdb

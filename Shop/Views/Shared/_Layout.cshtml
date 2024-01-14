@@ -1,0 +1,18 @@
+﻿<!DOCTYPE HTML>
+<html>
+<head>
+    @await Html.PartialAsync("MetatagsPartial")
+    @await Html.PartialAsync("CssPartial")
+</head>
+<body class="u-body u-xl-mode" data-lang="ru">
+    @await Html.PartialAsync("HeaderPartial")
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+    @await Html.PartialAsync("FooterPartial")
+    @await Html.PartialAsync("ScriptsPartial")
+    @RenderSection("Scripts", required: false)
+</body>
+</html>

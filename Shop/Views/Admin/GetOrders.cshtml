@@ -1,0 +1,57 @@
+﻿@model List<Shop.Models.OrderViewModel>
+    <link rel="stylesheet" href="~/css/nicepage.css" media="screen">
+    <link rel="stylesheet" href="~/css/Главная.css" media="screen">
+    <script class="u-script" type="text/javascript" src="~/js/jquery.js" defer=""></script>
+    <script class="u-script" type="text/javascript" src="~/js/nicepage.js" defer=""></script>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <div class="row">
+        <div class="col-md-3 my-4">
+            <div class="list-group ">
+                <a asp-action="GetOrders" class="list-group-item list-group-item-action">Заказы</a>
+                <a asp-action="GetUsers" class="list-group-item list-group-item-action">Пользователи</a>
+                <a asp-action="GetRoles" class="list-group-item list-group-item-action">Роли</a>
+                <a asp-action="AddProduct" class="list-group-item list-group-item-action">Добавление товаров</a>
+                <a asp-action="DeleteProduct" class="list-group-item list-group-item-action">Удаление товаров</a>
+            </div>
+        </div>
+        <div class="col-md-9 my-4">
+            <div class="card">
+                <div class="card-body">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <h4>Список заказов</h4>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-12 table-responsive">
+                            <table class="table table-hover table-sm">
+                                <thead>
+                                    <tr>
+                                        <th>№</th>
+                                        <th>Сумма</th>
+                                        <th>Статус</th>
+                                        <th>Пользователь (логин)</th>
+                                        <th>Дата</th>
+                                        <th>Время</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    @for (int i = Model.Count - 1; i >= 0; i--)
+                                    {
+                                        var order = Model[i];
+                        <tr class="table-row" data-href="/Admin/GetOrder/@order.Id">
+                            <td>@order.Number</td>
+                            <td>@order.FullPrice BYN</td>
+                            <td>@order.Status</td>
+                            <td>@order.UserEmail</td>
+                            <td>@order.DateTime.ToString("d")</td>
+                            <td>@order.DateTime.ToString("t")</td>
+                        </tr>}
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
