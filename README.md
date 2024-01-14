@@ -19,8 +19,8 @@ ASP.NET Core MVC + Entity Framework + Razor Pages
 </p>
 <img src="https://i.ibb.co/GxfctDs/10.png">
 <img src="https://i.ibb.co/NrzN18G/11.png">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
+<img src="https://i.ibb.co/C6zpgNF/12.png">
+<img src="https://i.ibb.co/163fbyk/13.png">
+<img src="https://i.ibb.co/vkGw9Kn/14.png">
+<img src="https://i.ibb.co/16k2Knr/15.png">
+<img src="https://i.ibb.co/7rgXJHf/16.png">
